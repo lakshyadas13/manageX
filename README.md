@@ -202,22 +202,6 @@ npm run dev
 - 🤖 **AI Integration** - Smart task suggestions and automated categorization
 - 🔐 **Two-Factor Authentication** - Enhanced security with 2FA support
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
-
-**Lakshya Das**  
-- 🔗 GitHub: [@lakshyadas13](https://github.com/lakshyadas13)
-- 💼 LinkedIn: [Lakshya Das](https://linkedin.com/in/lakshyadas)
-
----
-
 ## API Endpoints
 
 - `POST /auth/register` - Register a new user and receive JWT
@@ -288,3 +272,19 @@ Frontend:
 - `npm run build` - Production build
 - `npm run preview` - Preview production build
 - `npm run typecheck` - TypeScript checks
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👨‍💻 Author
+
+**Lakshya Das**  
+- 🔗 GitHub: [@lakshyadas13](https://github.com/lakshyadas13)
+- 💼 LinkedIn: [Lakshya Das](https://linkedin.com/in/lakshyadas)
+
+---
