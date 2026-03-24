@@ -56,20 +56,20 @@
 │                    ManageX Application                  │
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
-│  ┌──────────────────┐           ┌──────────────────┐  │
-│  │  React Frontend  │           │  Express Backend │  │
-│  │  (Vite + Tail)   │◄─────────►│    (REST API)    │  │
-│  │                  │    HTTP   │                  │  │
-│  └──────────────────┘           └──────────────────┘  │
-│         │                               │              │
-│         │ Auth Token (JWT)              │ Routes       │
-│         │                               │              │
-│         └───────────────────────────────┤              │
-│                                         │              │
-│                            ┌─────────────────────┐    │
-│                            │   MongoDB Atlas     │    │
-│                            │   (Database Layer)  │    │
-│                            └─────────────────────┘    │
+│  ┌──────────────────┐           ┌──────────────────┐    │
+│  │  React Frontend  │           │  Express Backend │    │
+│  │  (Vite + Tail)   │◄─────────►│    (REST API)    │    │
+│  │                  │    HTTP   │                  │    │
+│  └──────────────────┘           └──────────────────┘    │
+│         │                               │               │
+│         │ Auth Token (JWT)              │ Routes        │
+│         │                               │               │
+│         └───────────────────────────────┤               │
+│                                         │               │
+│                            ┌─────────────────────┐      │
+│                            │   MongoDB Atlas     │      │
+│                            │   (Database Layer)  │      │
+│                            └─────────────────────┘      │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -90,7 +90,7 @@
 
 ## 🔗 Repository Links
 
-- 🎨 **Frontend Repository**: [ManageX-Frontend] (https://github.com/lakshyadas13/manageX_frontend.git)
+- 🎨 **Frontend Repository**: [ManageX-Frontend](https://github.com/lakshyadas13/manageX_frontend.git)
 - ⚙️ **Backend Repository**: [ManageX-Backend](https://github.com/lakshyadas13/manageX_backend.git)
 
 ---
@@ -212,18 +212,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**  
-- 🔗 GitHub: [@username](https://github.com/username)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+**Lakshya Das**  
+- 🔗 GitHub: [@lakshyadas13](https://github.com/lakshyadas13)
+- 💼 LinkedIn: [Lakshya Das](https://linkedin.com/in/lakshyadas)
 
 ---
-
-<p align="center">
-  <strong>Made with ❤️ by ManageX Team</strong>  
-  <br />
-  If you found this project helpful, please give it a ⭐️ on GitHub!
-</p>
 
 ## API Endpoints
 
@@ -281,23 +274,6 @@ CORS_ORIGIN=https://<your-vercel-frontend-domain>
 4. Deploy and copy your public backend URL.
 5. Update `VITE_API_URL` in Vercel to point to this Railway URL.
 
-## Screenshots (Stored In Repo)
-
-Add image files inside `assets/screenshots/` using these names:
-
-- `dashboard.png`
-- `task-form.png`
-- `progress-heatmap.png`
-- `login-page.png`
-- `register-page.png`
-
-Then README will render them directly from this repository:
-
-![Dashboard](assets/screenshots/dashboard.png)
-![Task Form](assets/screenshots/task-form.png)
-![Progress Heatmap](assets/screenshots/progress-heatmap.png)
-![Login Page](assets/screenshots/login-page.png)
-![Register Page](assets/screenshots/register-page.png)
 
 ## Available Scripts
 
