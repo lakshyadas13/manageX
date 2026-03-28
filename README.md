@@ -23,6 +23,9 @@
 - 📌 **Task Notes**: Add detailed notes and descriptions to each task
 - 🔍 **Advanced Filtering**: Filter and sort tasks by priority, status, and more
 - 📊 **Progress Dashboard**: Visualize task completion with contribution-style heatmap analytics
+- 🌤️ **Dashboard Widgets**: Dynamic real-time weather and motivational quote widgets integrated seamlessly
+- 🗓️ **Calendar Sync**: One-click functionality to instantly add tasks and reminders directly to Google Calendar
+- 👤 **Dynamic Avatars**: Auto-generated, personalized user avatars powered by the DiceBear API
 - 📱 **Fully Responsive**: Optimized for desktop, tablet, and mobile devices
 - 🎨 **Modern UI/UX**: Clean, intuitive interface for optimal user experience
 
@@ -46,6 +49,11 @@
 ### Database
 - **MongoDB Atlas** - Cloud database
 - **Mongoose 8** - Schema validation & modeling
+
+### External APIs
+- **WeatherAPI** - Real-time weather forecasting
+- **ZenQuotes API** - Daily motivational quotes
+- **DiceBear API** - Dynamic avatar generation
 
 ---
 
@@ -134,6 +142,7 @@ PORT=5000
 MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/managex
 JWT_SECRET=your_super_secret_jwt_key_here_change_in_production
 JWT_EXPIRES_IN=7d
+WEATHER_API_KEY=your_weatherapi_key_here
 NODE_ENV=development
 ```
 
@@ -212,6 +221,11 @@ npm run dev
 - `GET /tasks` - Fetch tasks with optional filters/sort (auth required)
 - `PUT /tasks/:id` - Update a task (auth required)
 - `DELETE /tasks/:id` - Delete a task (auth required)
+
+### External Integrations
+
+- `GET /api/weather?city={cityName}` - Proxy for live weather data
+- `GET /api/quotes/random` - Proxy for daily motivational quotes
 
 For protected task routes, include header:
 
