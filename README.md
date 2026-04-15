@@ -28,6 +28,10 @@
 - 👤 **Dynamic Avatars**: Auto-generated, personalized user avatars powered by the DiceBear API
 - 📱 **Fully Responsive**: Optimized for desktop, tablet, and mobile devices
 - 🎨 **Modern UI/UX**: Clean, intuitive interface for optimal user experience
+- 🔔 **Smart Alert System**: A context-aware notification banner that dynamically calculates task deadlines and priorities, proactively warning you about overdue tasks, high-priority items, and deadlines approaching within 24 hours.
+- 📄 **Task Report Generation**: Integrated client-side PDF export functionality (powered by jspdf) that allows you to instantly download a cleanly formatted, categorized weekly summary of your pending and completed tasks.
+- 🤝 **Task Collaboration & Assignment**: Ability to assign tasks to other registered users seamlessly! This handles deep cross-account permissions, meaning assigned users securely view and interact with delegated responsibilities directly on their own dashboard.
+
 
 ---
 
