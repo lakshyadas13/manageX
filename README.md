@@ -28,9 +28,9 @@
 - 👤 **Dynamic Avatars**: Auto-generated, personalized user avatars powered by the DiceBear API
 - 📱 **Fully Responsive**: Optimized for desktop, tablet, and mobile devices
 - 🎨 **Modern UI/UX**: Clean, intuitive interface for optimal user experience
-🔔 **Smart Alert System**: Proactive, context-aware notification banners dynamically warning you of high priorities and rapidly approaching deadlines
-📄 **Task Report Exports**: Seamless client-side functionality to generate and download categorized weekly PDF activity summaries
-🤝 **Team Collaboration**: Deep assignment capabilities allowing users to securely delegate, track, and manage cross-account tasks
+- 🔔 **Smart Alert System**: Proactive, context-aware notification banners dynamically warning you of high        priorities and rapidly approaching deadlines
+- 📄 **Task Report Exports**: Seamless client-side functionality to generate and download categorized weekly PDF activity summaries
+- 🤝 **Team Collaboration**: Deep assignment capabilities allowing users to securely delegate, track, and manage cross-account tasks
 
 
 ---
