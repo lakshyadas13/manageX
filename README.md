@@ -98,7 +98,7 @@
 | ![Dashboard](assets/screenshots/dashboard.png) | ![Task Form](assets/screenshots/task-form.png) |
 
 | Profile | Login |
-|----------------|-------|
+|-----------|-----------|
 | ![Profile](assets/screenshots/profile.png) | ![Login](assets/screenshots/login-page.png) |
 
 ---
