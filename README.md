@@ -97,9 +97,9 @@
 |-----------|-----------|
 | ![Dashboard](assets/screenshots/dashboard.png) | ![Task Form](assets/screenshots/task-form.png) |
 
-| Progress Heatmap | Login |
+| Profile | Login |
 |------------------|-------|
-| ![Progress Heatmap](assets/screenshots/progress-heatmap.png) | ![Login](assets/screenshots/login-page.png) |
+| ![Profile](assets/screenshots/profile.png) | ![Login](assets/screenshots/login-page.png) |
 
 ---
 
