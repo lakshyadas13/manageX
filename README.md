@@ -2,7 +2,7 @@
 
 > A modern, full-stack task management application with seamless authentication and intuitive user experience
 
-[![Demo](https://img.shields.io/badge/Live%20Demo-Coming%20Soon-blue)](.)
+[![Demo](https://img.shields.io/badge/Live%20Demo-Coming%20Soon-blue)](https://manage-x-frontend.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
