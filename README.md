@@ -2,7 +2,7 @@
 
 > A modern, full-stack task management application with seamless authentication and intuitive user experience
 
-![ManageX Demo](./assets/managex-demo.png)
+![ManageX Demo]([./assets/managex-demo.png](https://manage-x-frontend.vercel.app))
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
